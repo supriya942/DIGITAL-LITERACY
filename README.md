@@ -51,13 +51,15 @@ Files:
 Task 3 – Coding & Collaboration Platforms
 Part A – Coding Platform
 - Platform: HackerRank  
-- Activity: Completed a beginner-level coding problem  
+- Activity: Completed a beginner-level coding problem
+- ![Screenshot_28-3-2026_154259_www hackerrank com](https://github.com/user-attachments/assets/0f6d32d1-a553-48c8-b549-3daad8a88af0)
+
 
 Part B – Google Form
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
-🔗 Google Form Link: [Paste your link here]
+🔗 Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLScqtgaFtYIPJ3pV7uY0ySqUXi6NzBwTXfXOV_DHz23lzd2Stw/viewform?usp=header
 
 Files:  
 - `task-3-platforms/hackerrank.png`  
