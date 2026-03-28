@@ -104,7 +104,7 @@ Project Report
 The detailed report of all tasks is included in the repository.
 
 File: `report/Project_Report.pdf`
-
+https://github.com/supriya942/DIGITAL-LITERACY/blob/main/PROJECT%20REPORT.docx
 
 
 Tools & Platforms Used
