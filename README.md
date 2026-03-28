@@ -81,7 +81,9 @@ Task 4 – Email Etiquette & Social Media Checklist
 Files:  
 - `task-4-email-etiquette/emails.txt`
 - https://github.com/supriya942/DIGITAL-LITERACY/blob/main/TASK-4%20Subject%20Request%20for%20Assignment%20Dead.txt  
-- `task-4-email-etiquette/social-media-checklist.txt`  
+- `task-4-email-etiquette/social-media-checklist.txt`
+- https://github.com/supriya942/DIGITAL-LITERACY/blob/main/TASK-4%20%20Subject%3A%20Application%20for%20Summer%20Internship
+-  
 
 ---
 
