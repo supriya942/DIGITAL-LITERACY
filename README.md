@@ -79,7 +79,8 @@ Task 4 – Email Etiquette & Social Media Checklist
 - Created a Social Media Do’s and Don’ts checklist  
 
 Files:  
-- `task-4-email-etiquette/emails.txt`  
+- `task-4-email-etiquette/emails.txt`
+- https://github.com/supriya942/DIGITAL-LITERACY/blob/main/TASK-4%20Subject%20Request%20for%20Assignment%20Dead.txt  
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 ---
